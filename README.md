@@ -1,1 +1,1 @@
-# collection of useful extendention function for greenplum
+# collection of useful extension functions for greenplum
